@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><employees>
+    <employee>
+        <id>1</id>
+        <lname>Fojcik</lname>
+        <fname>David</fname>
+        <city>Karvina</city>
+        <street>Na kopci 2058</street>
+        <postal>461321</postal>
+        <localityId>1</localityId>
+    </employee>
+    <employee>
+        <id>2</id>
+        <lname>Januszek</lname>
+        <fname>Steve</fname>
+        <city>Praha</city>
+        <street>Pricna ulice 701</street>
+        <postal>51612</postal>
+        <localityId>1</localityId>
+    </employee>
+    <employee>
+        <id>3</id>
+        <lname>Frinta</lname>
+        <fname>Martin</fname>
+        <city>Brno</city>
+        <street>U vodarny 3032</street>
+        <postal>16416541</postal>
+        <localityId>3</localityId>
+    </employee>
+    <employee>
+        <id>4</id>
+        <lname>Klaskova</lname>
+        <fname>Veronika</fname>
+        <city>Brno</city>
+        <street>Moska street</street>
+        <postal>97011</postal>
+        <localityId>4</localityId>
+    </employee>
+    <employee>
+        <id>5</id>
+        <lname>Frinta</lname>
+        <fname>Robert</fname>
+        <city>Brno</city>
+        <street>U vodarny 3032</street>
+        <postal>16416541</postal>
+        <localityId>3</localityId>
+    </employee>
+    
+    <employee>
+        <id>9</id>
+        <lname>Bruno</lname>
+        <fname>Mars</fname>
+        <city>New York City</city>
+        <street>Božetěchova</street>
+        <postal>79461</postal>
+        <localityId>2</localityId>
+    </employee>
+    
+<employee><id>10</id><lname>Fojcik</lname><fname>David</fname><city>Karvina</city><street>Na Kopci 2058</street><postal>734 01</postal><localityId>1</localityId></employee></employees>

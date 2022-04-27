@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<localities>
+    <locality>
+        <id>1</id>
+        <office>A</office>
+        <city>Brno</city>
+        <street>cokoliv</street>
+        <postal>11</postal>
+    </locality>
+    <locality>
+        <id>2</id>
+        <office>B</office>
+        <city>Praha</city>
+        <street>Cokoliv2</street>
+        <postal>123</postal>
+    </locality>
+    <locality>
+        <id>3</id>
+        <office>C</office>
+        <city>Ostrava</city>
+        <street>Cokoliv654</street>
+        <postal>16132</postal>
+    </locality>
+    <locality>
+        <id>4</id>
+        <office>D</office>
+        <city>Moravská třebová</city>
+        <street>Kokos 80</street>
+        <postal>16132</postal>
+    </locality>
+</localities>
